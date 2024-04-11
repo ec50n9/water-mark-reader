@@ -4,6 +4,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.idea/copilot/chatSessions" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/share" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (water-mark-reader)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
